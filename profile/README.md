@@ -1,3 +1,40 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhnacademy-be6-5ritang&count_bg=%2379C83D&title_bg=%23555555&icon=duckduckgo.svg&icon_color=%23E7E7E7&title=%EC%98%A4%EB%A6%AC%ED%83%95+%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+
+# 모든 이벤트 정보를 제공하는 사이트
+
+**https://https://www.eventor.store/**
+
+<div align="center" dir="auto">
+  <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto"> Eventor 팀 </h3>
+  </div>
+  <markdown-accessiblity-table data-catalyst="">
+    <table>
+      <thead>
+        <tr>
+          <th><a href="https://github.com/Kayas2580"><img src="https://github.com/Kayas2580.png" width="100px" style="max-width: 100%;"><br>장우혁</a></th>
+          <th><a href="https://github.com/dlrudgjs104"><img src="https://github.com/dlrudgjs104.png" width="100px" style="max-width: 100%;"><br>이경헌</a></th>
+        </tr>
+      </thead>
+    </table>
+</markdown-accessiblity-table>
+</div>
+
+<br><br>
+
+#  5ritang_Repository
+
+- [BACK](https://github.com/nhnacademy-be6-5ritang/book-store-back)
+- [FRONT](https://github.com/nhnacademy-be6-5ritang/book-store-front)
+- [COUPON](https://github.com/nhnacademy-be6-5ritang/book-store-coupon)
+- [ACCOUNT](https://github.com/nhnacademy-be6-5ritang/book-store-account)
+- [GATEWAY](https://github.com/nhnacademy-be6-5ritang/book-store-cloud-gateway)
+- [EUREKA](https://github.com/nhnacademy-be6-5ritang/book-store-cloud-eureka)
+- [STUDY](https://github.com/nhnacademy-be6-5ritang/5ritang-study)
+
+---
+
+
 # 사이트 [https://www.eventor.store](https://www.eventor.store)
 - Front-End Server: 8081
 - API Gateway Server: 8090
