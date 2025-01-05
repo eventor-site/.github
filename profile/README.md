@@ -22,7 +22,7 @@
 
 <br><br>
 
-#  5ritang_Repository
+#  Eventor_Repository
 
 - [FRONT](https://github.com/eventor-site/eventor-front)
 - [BACK](https://github.com/eventor-site/eventor-back)
