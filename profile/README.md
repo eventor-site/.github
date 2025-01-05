@@ -24,13 +24,10 @@
 
 #  5ritang_Repository
 
-- [BACK](https://github.com/nhnacademy-be6-5ritang/book-store-back)
-- [FRONT](https://github.com/nhnacademy-be6-5ritang/book-store-front)
-- [COUPON](https://github.com/nhnacademy-be6-5ritang/book-store-coupon)
-- [ACCOUNT](https://github.com/nhnacademy-be6-5ritang/book-store-account)
-- [GATEWAY](https://github.com/nhnacademy-be6-5ritang/book-store-cloud-gateway)
-- [EUREKA](https://github.com/nhnacademy-be6-5ritang/book-store-cloud-eureka)
-- [STUDY](https://github.com/nhnacademy-be6-5ritang/5ritang-study)
+- [FRONT](https://github.com/eventor-site/eventor-front)
+- [BACK](- [FRONT](https://github.com/eventor-site/eventor-back)
+- [ACCOUNT](- [FRONT](https://github.com/eventor-site/eventor-auth)
+- [GATEWAY](- [FRONT](https://github.com/eventor-site/eventor-gateway)
 
 ---
 
