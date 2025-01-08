@@ -2,7 +2,7 @@
 
 # 모든 이벤트 정보를 제공하는 사이트
 
-**https://https://www.eventor.store/**
+**https://www.eventor.store**
 
 <div align="center" dir="auto">
   <div class="markdown-heading" dir="auto">
