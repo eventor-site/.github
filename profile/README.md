@@ -44,6 +44,10 @@
 - 네이버 포멧터 적용(1.1.3 까지만 진행)
 [https://bestinu.tistory.com/64](https://bestinu.tistory.com/64)
 
+RESTful 관점
+**GET**은 데이터 조회에 사용하며, 서버의 상태를 변경하지 않는 안전한 요청(Safe Method)으로 간주됩니다.
+**POST**는 데이터를 서버로 전송하여 서버가 작업을 처리하도록 요청할 때 사용됩니다. 존재 여부 확인은 단순 조회라기보다는 데이터를 전달하여 검증 작업을 수행하는 과정이므로, POST가 더 RESTful에 부합합니다
+
 # Git-Branch 전략
 
 # Commit 컨벤션
