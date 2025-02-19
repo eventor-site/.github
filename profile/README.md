@@ -29,7 +29,7 @@
 - [BACK](https://github.com/eventor-site/eventor-back)
 - [AUTH](https://github.com/eventor-site/eventor-auth)
 - [GATEWAY](https://github.com/eventor-site/eventor-gateway)
-
+- [EUREKA](https://github.com/eventor-site/eventor-eureka)
 ---
 
 
@@ -38,6 +38,7 @@
 - API Gateway Server: 8090
 - Auth Server: 8070
 - Back-End Server: 8083
+- Eureka Server: 8761
   
 # 코드 컨벤션
 - SonarLint
