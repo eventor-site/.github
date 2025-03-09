@@ -77,14 +77,6 @@
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white">
 </p>
 
-### Test
-<p>
-    <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-    <img src="https://img.shields.io/badge/AssertJ-26A69A?style=for-the-badge&logo=&logoColor=white">
-    <img src="https://img.shields.io/badge/Mockito-FFCA28?style=for-the-badge&logo=&logoColor=white">
-    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
-</p>
-
 ### Database
 <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -101,11 +93,6 @@
     <img src="https://img.shields.io/badge/ERDCloud-000000?style=for-the-badge&logo=&logoColor=white">
 </p>
 
-### Message Queue
-<p>
-    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
-</p>
-
 ### CI/CD
 <p>
     <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
@@ -120,15 +107,6 @@
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
-</p>
-
-### NHN Cloud
-<p>
-    <img src="https://img.shields.io/badge/NHN%20Cloud-000000?style=for-the-badge&logo=&logoColor=white">
-    <img src="https://img.shields.io/badge/Instance-000000?style=for-the-badge&logo=&logoColor=white">
-    <img src="https://img.shields.io/badge/Secure%20Key%20Manager-000000?style=for-the-badge&logo=&logoColor=white">
-    <img src="https://img.shields.io/badge/Image%20Manager-000000?style=for-the-badge&logo=&logoColor=white">
-    <img src="https://img.shields.io/badge/Log%20%26%20Crash%20Search-000000?style=for-the-badge&logo=&logoColor=white">
 </p>
 
 ### Web Server
@@ -162,26 +140,14 @@
 
 # ER-Diagram
 
- ***https://www.erdcloud.com/d/vD5T9WrpW2PMZZvR2***  `ERDCloud` 활용하여 버전별로 관리
-
-5ritang_final
-![오리탕 ERD v3 0](https://github.com/user-attachments/assets/f121f58d-0316-49cb-b57e-857862e413a2)
-
-
-<details>
-<summary>오리탕 v2.8</summary>
-
-
-![오리탕 ERD Final](https://github.com/user-attachments/assets/206f80a4-afe0-4343-adc9-1da1888b4a59)
-</details>
+ ***[https://www.erdcloud.com/d/vD5T9WrpW2PMZZvR2](https://www.erdcloud.com/d/GpXdoeXEpfLGzjwun)***  `ERDCloud` 활용하여 버전별로 관리
 
 
 
 <details>
-<summary>오리탕 v2.4</summary>
+<summary>이벤터 v1.0</summary>
 
-
-![오리탕 ERD v2 6](https://github.com/user-attachments/assets/a80e1f14-641d-4180-acf1-827d455794db)
+![오리탕 ERD v1.0](https://github.com/user-attachments/assets/a80e1f14-641d-4180-acf1-827d455794db)
 </details>
 
 # RESTfulAPI
