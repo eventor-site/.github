@@ -2,8 +2,6 @@
 
 # 모든 이벤트 정보를 제공하는 사이트
 
-**https://www.eventor.store**
-
 <div align="center" dir="auto">
   <div class="markdown-heading" dir="auto">
     <h3 class="heading-element" dir="auto"> Eventor 팀 </h3>
@@ -20,6 +18,8 @@
     </table>
 </markdown-accessiblity-table>
 </div>
+
+**https://www.eventor.store**
 
 ![이벤터 홈](https://github.com/user-attachments/assets/18436e24-724b-4b5a-8aba-7e79b3337733)
 
