@@ -142,19 +142,38 @@
 
  ***[https://www.erdcloud.com/d/vD5T9WrpW2PMZZvR2](https://www.erdcloud.com/d/GpXdoeXEpfLGzjwun)***  `ERDCloud` 활용하여 버전별로 관리
 
+<details>
+<summary>이벤터 v1.4</summary>
+![이벤터 ERD v1.4](https://github.com/user-attachments/assets/c916fa00-59dc-4480-8ff4-044ed1bc9488)
 
+</details>
+
+<details>
+<summary>이벤터 v1.3</summary>
+![이벤터 ERD v1.3](https://github.com/user-attachments/assets/9a21af97-18fe-40dc-807e-e2aeae082f18)
+
+</details>
+
+<details>
+<summary>이벤터 v1.2</summary>
+![이벤터 ERD v1.2](https://github.com/user-attachments/assets/568659c0-a947-47a0-802b-125297cfdaa1)
+
+</details>
+
+<details>
+<summary>이벤터 v1.1</summary>
+![이벤터 ERD v1.1](https://github.com/user-attachments/assets/61c265a8-b333-414e-9c09-7fbc0fb0837a)
+
+</details>
 
 <details>
 <summary>이벤터 v1.0</summary>
-
-![오리탕 ERD v1.0](https://github.com/user-attachments/assets/a80e1f14-641d-4180-acf1-827d455794db)
+![이벤터 ERD v1.0](https://github.com/user-attachments/assets/36bc5b60-705d-4d4e-b93d-d73ebe3d7e3b)
 </details>
 
 # RESTfulAPI
 - **GET**은 데이터 조회에 사용하며, 서버의 상태를 변경하지 않는 안전한 요청(Safe Method)으로 간주됩니다.
 - **POST**는 데이터를 서버로 전송하여 서버가 작업을 처리하도록 요청할 때 사용됩니다. 존재 여부 확인은 단순 조회라기보다는 데이터를 전달하여 검증 작업을 수행하는 과정이므로, POST가 더 RESTful에 부합합니다
-
-# Git-Branch 전략
 
 # Commit 컨벤션
 ```
