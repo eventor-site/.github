@@ -116,12 +116,11 @@
 
 ### ETC.
 <p>
-    <img src="https://img.shields.io/badge/Dooray%20Hook%20Sender-000000?style=for-the-badge&logo=&logoColor=white">
-    <img src="https://img.shields.io/badge/Toast%20UI-000000?style=for-the-badge&logo=&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Payco%20Oauth-000000?style=for-the-badge&logo=&logoColor=white">
-    <img src="https://img.shields.io/badge/Aladin%20api-000000?style=for-the-badge&logo=&logoColor=white">
-    <img src="https://img.shields.io/badge/naver%20api-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+    <img src="https://img.shields.io/badge/Toast%20UI-000000?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white">
+    <img src="https://img.shields.io/badge/Kakao%20OAuth-FFCD00?style=for-the-badge&logo=kakao&logoColor=black">
+    <img src="https://img.shields.io/badge/Naver%20OAuth-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 </p>
 
 ### Design Tool
