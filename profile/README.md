@@ -13,6 +13,8 @@
           <th><a href="https://github.com/Kayas2580"><img src="https://github.com/Kayas2580.png" width="100px" style="max-width: 100%;"><br>장우혁</a></th>
           <th><a href="https://github.com/dlrudgjs104"><img src="https://github.com/dlrudgjs104.png" width="100px" style="max-width: 100%;"><br>이경헌</a></th>
           <th><a href="https://github.com/leesong-h"><img src="https://github.com/leesong-h.png" width="100px" style="max-width: 100%;"><br>이송호</a></th>
+          <th><a href="https://github.com/hyeon0357"><img src="https://github.com/hyeon0357.png" width="100px" style="max-width: 100%;"><br>진주현</a></th>
+          <th><a href="https://github.com/mindolri"><img src="https://github.com/mindolri.png" width="100px" style="max-width: 100%;"><br>김민석</a></th>
         </tr>
       </thead>
     </table>
