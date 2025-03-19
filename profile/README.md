@@ -39,10 +39,10 @@
 
 
 # 사이트 [https://www.eventor.store](https://www.eventor.store)
-- Front-End Server: 8081
+- Front-End Server: 8001, 8002, 8003, 8004
 - API Gateway Server: 8090
 - Auth Server: 8070
-- Back-End Server: 8083
+- Back-End Server: 8101, 8102, 8103, 8104
 - Eureka Server: 8761
   
 # 코드 컨벤션
