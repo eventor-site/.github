@@ -190,7 +190,7 @@
 ---
 
 # CI/CD
-![Uploading cicd.png…]()
+![cicd](https://github.com/user-attachments/assets/5d44028b-5c4f-4767-a220-fb720e6866b3)
 
 ---
 
