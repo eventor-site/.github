@@ -190,6 +190,7 @@
 ---
 
 # CI/CD
+![Uploading cicd.png…]()
 
 ---
 
