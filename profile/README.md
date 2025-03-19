@@ -190,7 +190,8 @@
 ---
 
 # CI/CD
-![cicd](https://github.com/user-attachments/assets/5d44028b-5c4f-4767-a220-fb720e6866b3)
+![cicd](https://github.com/user-attachments/assets/bfc8bcfa-c481-4791-ad64-4ad1dea4d788)
+
 
 ---
 
