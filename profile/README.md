@@ -183,7 +183,8 @@
 ---
 
 # Architecture
-![architecure](https://github.com/user-attachments/assets/4be40796-8f93-4364-ad17-dd9709c1debd)
+![architecure](https://github.com/user-attachments/assets/9a1af8b2-4e6e-413f-a47f-a02620376fca)
+
 
 
 ---
