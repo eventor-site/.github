@@ -183,6 +183,7 @@
 ---
 
 # Architecture
+![architecure](https://github.com/user-attachments/assets/4be40796-8f93-4364-ad17-dd9709c1debd)
 
 
 ---
