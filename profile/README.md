@@ -147,6 +147,13 @@
  ***[https://www.erdcloud.com/d/vD5T9WrpW2PMZZvR2](https://www.erdcloud.com/d/GpXdoeXEpfLGzjwun)***  `ERDCloud` 활용하여 버전별로 관리
 
 <details>
+<summary>이벤터 v1.5</summary>
+  
+![이벤터 ERD v1.5](https://github.com/user-attachments/assets/435f5a5f-f4b4-4807-b8f8-1d9ed7ccc570)
+
+</details>
+
+<details>
 <summary>이벤터 v1.4</summary>
   
 ![이벤터 ERD v1.4](https://github.com/user-attachments/assets/c916fa00-59dc-4480-8ff4-044ed1bc9488)
