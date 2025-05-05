@@ -147,6 +147,13 @@
 <details>
 <summary>이벤터 v1.5</summary>
   
+![이벤터 ERD v1.6](https://github.com/user-attachments/assets/ce13b05b-1871-4bae-8667-32c9e994830d)
+
+</details>
+
+<details>
+<summary>이벤터 v1.5</summary>
+  
 ![이벤터 ERD v1.5](https://github.com/user-attachments/assets/435f5a5f-f4b4-4807-b8f8-1d9ed7ccc570)
 
 </details>
