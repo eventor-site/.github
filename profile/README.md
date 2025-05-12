@@ -21,8 +21,7 @@
 
 **https://www.eventor.store**
 
-![이벤터 홈](https://github.com/user-attachments/assets/18436e24-724b-4b5a-8aba-7e79b3337733)
-
+![image](https://github.com/user-attachments/assets/e97b51db-f773-4e79-9270-001a3557c203)
 
 <br><br>
 
