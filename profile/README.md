@@ -1,5 +1,9 @@
 # 모든 이벤트 정보를 제공하는 사이트 (2024.11.12 ~ 진행중)
 
+## **https://www.eventor.store**
+
+![image](https://github.com/user-attachments/assets/e97b51db-f773-4e79-9270-001a3557c203)
+
 <div align="center" dir="auto">
   <div class="markdown-heading" dir="auto">
     <h3 class="heading-element" dir="auto"> Eventor 팀 </h3>
@@ -18,10 +22,6 @@
     </table>
 </markdown-accessiblity-table>
 </div>
-
-**https://www.eventor.store**
-
-![image](https://github.com/user-attachments/assets/e97b51db-f773-4e79-9270-001a3557c203)
 
 <br><br>
 
