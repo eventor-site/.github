@@ -8,7 +8,7 @@
 
 🌐 **[www.eventor.store](https://www.eventor.store)**
 
----
+![image](https://github.com/user-attachments/assets/e97b51db-f773-4e79-9270-001a3557c203)
 
 <div align="center" dir="auto">
   <div class="markdown-heading" dir="auto">
@@ -28,8 +28,6 @@
     </table>
 </markdown-accessiblity-table>
 </div>
-
-![image](https://github.com/user-attachments/assets/e97b51db-f773-4e79-9270-001a3557c203)
 
 <br><br>
 
