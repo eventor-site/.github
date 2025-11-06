@@ -7,7 +7,7 @@
 ✔ 카테고리별/진행상태별 필터 검색 <br>
 ✔ 관심 이벤트 저장 기능까지 <br>
 
-## 🌐 **[www.eventor.store](https://www.eventor.store)**
+## 🌐 **[www.eventor.kr](https://www.eventor.kr)**
 
 ![image](https://github.com/user-attachments/assets/e97b51db-f773-4e79-9270-001a3557c203)
 
@@ -41,7 +41,7 @@
 ---
 
 
-# 사이트 [https://www.eventor.store](https://www.eventor.store)
+# 사이트 [https://www.eventor.kr](https://www.eventor.kr)
 - Front-End Server: 8001, 8002, 8003, 8004
 - API Gateway Server: 8090
 - Auth Server: 8070
