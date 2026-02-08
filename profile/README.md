@@ -7,7 +7,7 @@
 ✔ 카테고리별/진행상태별 필터 검색 <br>
 ✔ 관심 이벤트 저장 기능까지 <br>
 
-## 🌐 **[www.eventor.kr](https://www.eventor.kr)**
+## 🌐 **[eventor.kr](https://eventor.kr)**
 
 ![image](https://github.com/user-attachments/assets/e97b51db-f773-4e79-9270-001a3557c203)
 
