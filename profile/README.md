@@ -1,228 +1,177 @@
-# 🎉 이벤터: 모든 이벤트를 한눈에! (2024.11.12 ~ 진행중)
-## 공공데이터 활용 공모전 (2025.05.19 ~ 종료)
+<div align="center">
 
-> 전국의 다양한 행사, 축제, 브랜드 프로모션까지! 이제는 **Eventor**에서 한 번에 확인하고, 놓치지 말고 즐기세요.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0891b2,100:1f6feb&height=260&section=header&text=Eventor&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Events%20%C2%B7%20Deals%20%C2%B7%20Community&descSize=24&descAlignY=64&descColor=ffffffcc" width="100%" alt="header" />
 
-✔ 최신 이벤트 정보 <br>
-✔ 카테고리별/진행상태별 필터 검색 <br>
-✔ 관심 이벤트 저장 기능까지 <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=640&height=36&lines=%EC%9D%B4%EB%B2%A4%ED%8A%B8+%C2%B7+%ED%8A%B9%EA%B0%80+%C2%B7+%ED%95%A0%EC%9D%B8%2C+%ED%95%9C+%EA%B3%B3%EC%97%90%EC%84%9C;%EC%A7%80%EA%B8%88+%EC%A7%84%ED%96%89+%EC%A4%91%EC%9D%B8+%EC%A0%95%EB%B3%B4%EB%A7%8C+%EB%AA%A8%EC%95%84%EB%B4%85%EB%8B%88%EB%8B%A4" alt="typing" />
 
-## 🌐 **[eventor.duckdns.org](https://eventor.duckdns.org)**
+<a href="https://eventor.duckdns.org"><img src="https://img.shields.io/badge/Visit-eventor.duckdns.org%20%E2%86%92-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" /></a>
 
-![image](https://github.com/user-attachments/assets/e97b51db-f773-4e79-9270-001a3557c203)
-
-<div align="center" dir="auto">
-  <div class="markdown-heading" dir="auto">
-    <h3 class="heading-element" dir="auto"> Eventor 팀 </h3>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th><a href="https://github.com/Kayas2580"><img src="https://github.com/Kayas2580.png" width="100px" style="max-width: 100%;"><br>장우혁</a></th>
-          <th><a href="https://github.com/dlrudgjs104"><img src="https://github.com/dlrudgjs104.png" width="100px" style="max-width: 100%;"><br>이경헌</a></th>
-          <th><a href="https://github.com/hyeon0357"><img src="https://github.com/hyeon0357.png" width="100px" style="max-width: 100%;"><br>진주현</a></th>
-          <th><a href="https://github.com/mindolri"><img src="https://github.com/mindolri.png" width="100px" style="max-width: 100%;"><br>김민석</a></th>
-        </tr>
-      </thead>
-    </table>
-</markdown-accessiblity-table>
 </div>
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=1&section=header" width="100%" />
 
-#  Eventor_Repository
+### 🎯 Purpose
 
-- [FRONT](https://github.com/eventor-site/eventor-front)
-- [BACK](https://github.com/eventor-site/eventor-back)
-- [AUTH](https://github.com/eventor-site/eventor-auth)
-- [GATEWAY](https://github.com/eventor-site/eventor-gateway)
-- [EUREKA](https://github.com/eventor-site/eventor-eureka)
----
+> **끝난 이벤트에 시간을 쓰지 않도록, 지금 진행 중인 정보만 모아 보여 드립니다.**
+> Eventor는 이벤트, 특가·할인, 축제 정보를 한곳에 모으고 회원들이 함께 나누는 정보 커뮤니티입니다.
 
+- **진행 중만** 메인 화면은 마감이 남은 정보 위주로 구성하고, 마감 진행률을 함께 보여 줍니다.
+- **믿을 수 있는 출처** 공식 출처와 회원 제보를 기반으로 하고, 사람이 검수하는 운영을 지향합니다.
+- **AI 보조** 분류, 요약, 링크 확인, 주간 리포트처럼 반복 작업은 Gemini가 돕습니다.
 
-# 사이트 [https://www.eventor.duckdns.org](https://www.eventor.duckdns.org)
-- Front-End Server: 8001, 8002, 8003, 8004
-- API Gateway Server: 8090
-- Auth Server: 8070
-- Back-End Server: 8101, 8102, 8103, 8104
-- Eureka Server: 8761
-  
-# 코드 컨벤션
-- SonarLint
-- 네이버 포멧터 적용(1.1.3 까지만 진행)
-[https://bestinu.tistory.com/64](https://bestinu.tistory.com/64)
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0891b2,100:1f6feb&height=200&section=header&text=4%2B8&fontSize=84&fontColor=ffffff&fontAlignY=36&desc=%EA%B2%8C%EC%8B%9C%ED%8C%90%204%EA%B0%9C%20%C2%B7%20AI%20%EB%B6%84%EC%95%BC%208%EA%B0%9C&descSize=34&descAlignY=74&descColor=ffffffcc" width="31%" alt="4+8 게시판 4개 · AI 분야 8개" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0891b2,100:1f6feb&height=200&section=header&text=Web&fontSize=84&fontColor=ffffff&fontAlignY=36&desc=%EC%9B%B9%EA%B3%BC%20Android%20%EC%95%B1&descSize=34&descAlignY=74&descColor=ffffffcc" width="31%" alt="Web 웹과 Android 앱" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0891b2,100:1f6feb&height=200&section=header&text=SEO&fontSize=84&fontColor=ffffff&fontAlignY=36&desc=%EA%B2%80%EC%83%89%20%EC%9C%A0%EC%9E%85%EC%9A%A9%20HTML%20%EC%A0%9C%EA%B3%B5&descSize=34&descAlignY=74&descColor=ffffffcc" width="31%" alt="SEO 검색 유입용 HTML 제공" />
 
-# 개발 환경
+</div>
 
-### 🛠 개발 도구
-<p>
-    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=1&section=header" width="100%" />
 
-### Language
-<p>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-</p>
+### ✨ Features
 
-### Build Tools
-<p>
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
-</p>
+<div align="center">
 
-### Develop
-<p>
-    <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring%20Cloud%20Netflix-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring%20Cloud%20Config-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring%20Cloud%20OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Querydsl-0095D5?style=for-the-badge&logo=&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0891b2,100:1f6feb&height=220&section=header&text=%EC%9D%B4%EB%B2%A4%ED%8A%B8&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%EC%A7%84%ED%96%89%20%EC%A4%91%EC%9D%B8%20%EC%A0%95%EB%B3%B4%EB%A7%8C%20%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0&descSize=36&descAlignY=72&descColor=ffffffcc" width="31%" alt="이벤트" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0891b2,100:1f6feb&height=220&section=header&text=%ED%8A%B9%EA%B0%80%20%C2%B7%20%ED%95%A0%EC%9D%B8&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%ED%95%AB%EB%94%9C%20TOP%2010%20%C2%B7%20%EB%A7%88%EA%B0%90%20%EC%A7%84%ED%96%89%EB%A5%A0&descSize=36&descAlignY=72&descColor=ffffffcc" width="31%" alt="특가 · 할인" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0891b2,100:1f6feb&height=220&section=header&text=%EC%B6%95%EC%A0%9C&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%ED%95%9C%EA%B5%AD%EA%B4%80%EA%B4%91%EA%B3%B5%EC%82%AC%20%EC%B6%95%EC%A0%9C%20%EC%A0%95%EB%B3%B4&descSize=36&descAlignY=72&descColor=ffffffcc" width="31%" alt="축제" />
 
-### Database
-<p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0891b2,100:1f6feb&height=220&section=header&text=%EA%B8%88%EB%A6%AC%20%EB%B9%84%EA%B5%90&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%EC%98%88%20%C2%B7%20%EC%A0%81%EA%B8%88%20%EA%B8%88%EB%A6%AC%20%EB%B9%84%EA%B5%90&descSize=36&descAlignY=72&descColor=ffffffcc" width="31%" alt="금리 비교" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0891b2,100:1f6feb&height=220&section=header&text=AI%20%ED%81%90%EB%A0%88%EC%9D%B4%EC%85%98&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%EB%B6%84%EB%A5%98%20%C2%B7%20%EC%9A%94%EC%95%BD%20%C2%B7%20%EC%A3%BC%EA%B0%84%20%EB%A6%AC%ED%8F%AC%ED%8A%B8&descSize=36&descAlignY=72&descColor=ffffffcc" width="31%" alt="AI 큐레이션" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0891b2,100:1f6feb&height=220&section=header&text=%EB%B8%8C%EB%9E%9C%EB%93%9C%20%EA%B0%90%EC%8B%9C&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%EA%B3%B5%EC%8B%9D%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%ED%99%95%EC%9D%B8&descSize=36&descAlignY=72&descColor=ffffffcc" width="31%" alt="브랜드 감시" />
 
-### Search Engine
-<p>
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-</p>
+</div>
 
-### ERD
-<p>
-    <img src="https://img.shields.io/badge/ERDCloud-000000?style=for-the-badge&logo=&logoColor=white">
-</p>
-
-### CI/CD
-<p>
-    <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</p>
-
-### UI
-<p>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
-</p>
-
-### Web Server
-<p>
-    <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-</p>
-
-### ETC.
-<p>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Toast%20UI-000000?style=for-the-badge&logo=&logoColor=white">
-    <img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white">
-    <img src="https://img.shields.io/badge/Kakao%20OAuth-FFCD00?style=for-the-badge&logo=kakao&logoColor=black">
-    <img src="https://img.shields.io/badge/Naver%20OAuth-03C75A?style=for-the-badge&logo=naver&logoColor=white">
-</p>
-
-### Design Tool
-<p>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</p>
-
-### API Testing
-<p>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache%20JMeter-007bff?style=for-the-badge&logo=apache&logoColor=white">
-</p>
-
-
----
-
-# ER-Diagram
-
- ***[https://www.erdcloud.com/d/vD5T9WrpW2PMZZvR2](https://www.erdcloud.com/d/GpXdoeXEpfLGzjwun)***  `ERDCloud` 활용하여 버전별로 관리
+<br>
 
 <details>
-<summary>이벤터 v1.6</summary>
-  
-![이벤터 ERD v1.6](https://github.com/user-attachments/assets/ce13b05b-1871-4bae-8667-32c9e994830d)
+<summary><b>🏠 메인과 탐색</b></summary>
+<br>
+
+- 메인은 진행 중인 정보만 보여 줍니다. 스포트라이트, 라이브 패널, 브랜드 스토리, 주말 축제, 마감 진행률, 핫딜 TOP 10, 상시 혜택으로 구성합니다.
+- 분류는 게시판 4개와 AI 분야 8개이고, 목록은 모바일에서 시트형 드롭다운과 따라오는 도구 막대를 씁니다.
+- 특가·할인은 상품 카드로, 커뮤니티 글은 피드로 보여 줍니다.
 
 </details>
 
 <details>
-<summary>이벤터 v1.5</summary>
-  
-![이벤터 ERD v1.5](https://github.com/user-attachments/assets/435f5a5f-f4b4-4807-b8f8-1d9ed7ccc570)
+<summary><b>🤖 AI 큐레이션</b></summary>
+<br>
+
+- Gemini가 이벤트를 분류하고 링크를 확인합니다.
+- 상세 화면에 AI 요약 카드와 비슷한 이벤트를 보여 주고, 트렌드와 브랜드 페이지, 주간 리포트와 주간 큐레이션 초안을 만듭니다.
+- 사용량은 모델별로 나눠 관리합니다.
 
 </details>
 
 <details>
-<summary>이벤터 v1.4</summary>
-  
-![이벤터 ERD v1.4](https://github.com/user-attachments/assets/c916fa00-59dc-4480-8ff4-044ed1bc9488)
+<summary><b>🏷 브랜드 · 축제 · 금융</b></summary>
+<br>
+
+- 브랜드 공식 페이지를 감시하고, 관리자가 승인하는 확인 대기열로 검수합니다.
+- 한국관광공사 Tour API로 축제 정보를 실시간으로 보여 주고 축제는 구조화 데이터로 검색에 노출합니다.
+- 예·적금 금리 비교 페이지(/finance)를 제공합니다.
 
 </details>
 
 <details>
-<summary>이벤터 v1.3</summary>
-  
-![이벤터 ERD v1.3](https://github.com/user-attachments/assets/9a21af97-18fe-40dc-807e-e2aeae082f18)
+<summary><b>👥 회원과 운영</b></summary>
+<br>
+
+- 구글 로그인, 댓글, 즐겨찾기, 신고, 마이페이지에서 즐겨찾는 카테고리의 새 글 확인을 지원합니다.
+- 관리자 화면에서 외부 연동 상태, 신고, 확인 대기열을 관리하고 오류는 Discord로 알립니다.
+- Android 앱으로도 접속할 수 있습니다.
 
 </details>
 
-<details>
-<summary>이벤터 v1.2</summary>
-  
-![이벤터 ERD v1.2](https://github.com/user-attachments/assets/568659c0-a947-47a0-802b-125297cfdaa1)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=1&section=header" width="100%" />
 
-</details>
+### ✅ 이런 걸 할 수 있어요
 
-<details>
-<summary>이벤터 v1.1</summary>
-  
-![이벤터 ERD v1.1](https://github.com/user-attachments/assets/61c265a8-b333-414e-9c09-7fbc0fb0837a)
+- 진행 중인 이벤트와 마감 진행률 한눈에 보기
+- 특가·할인 상품을 카드로 보고 핫딜 TOP 10 확인
+- 분야별(AI 분류 8개)·게시판별로 탐색하고 검색하기
+- 이번 주말 축제 정보 확인
+- 예·적금 금리 비교
+- 이벤트 상세에서 AI 요약과 비슷한 이벤트 보기
+- 브랜드별 공식 이벤트 모아 보기
+- 구글 로그인 후 글쓰기, 댓글 남기기, 즐겨찾기, 신고
+- 마이페이지에서 즐겨찾는 카테고리의 새 글 확인
+- Android 앱으로 접속
 
-</details>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=1&section=header" width="100%" />
 
-<details>
-<summary>이벤터 v1.0</summary>
-  
-![이벤터 ERD v1.0](https://github.com/user-attachments/assets/36bc5b60-705d-4d4e-b93d-d73ebe3d7e3b)
-</details>
+### 🧭 How it works
 
----
-
-# Architecture
-![architecure](https://github.com/user-attachments/assets/9a1af8b2-4e6e-413f-a47f-a02620376fca)
-
-
-
----
-
-# CI/CD
-![cicd](https://github.com/user-attachments/assets/bfc8bcfa-c481-4791-ad64-4ad1dea4d788)
-
-
----
-
-# RESTfulAPI
-- **GET**은 데이터 조회에 사용하며, 서버의 상태를 변경하지 않는 안전한 요청(Safe Method)으로 간주됩니다.
-- **POST**는 데이터를 서버로 전송하여 서버가 작업을 처리하도록 요청할 때 사용됩니다. 존재 여부 확인은 단순 조회라기보다는 데이터를 전달하여 검증 작업을 수행하는 과정이므로, POST가 더 RESTful에 부합합니다
-
-# Commit 컨벤션
+```text
+공식 출처 · 공공 API · 회원 제보
+        │
+        ▼
+ Gemini 분류 · 링크 확인 → 관리자 검수 대기열
+        │
+        ▼
+ 게시 → 메인 · 목록 · 검색 · 즐겨찾기 카테고리 알림
+        │
+        ▼
+ SEO 용 HTML · 사이트맵 → 검색 유입
 ```
-feat : 새로운 기능 추가
-fix : 버그 수정
-docs : 문서 수정
-style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우
-refactor : 코드 리펙토링
-test : 테스트 코드, 리펙토링 테스트 코드 추가
-chore : 빌드 업무 수정, 패키지 매니저 수정
-```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=1&section=header" width="100%" />
+
+### 💡 Principles
+
+- **진행 중인 것만** 끝난 정보가 쌓여 신뢰를 깎지 않도록 마감 기준으로 보여 줍니다.
+- **복사하지 않는다** 다른 커뮤니티를 복사하지 않고 공식 출처, 공공 API, 회원 제보로 채웁니다.
+- **사람은 검수, 반복은 AI** 분류와 확인은 자동으로, 게시 결정은 사람이 합니다.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=1&section=header" width="100%" />
+
+### 🗺 Roadmap
+
+- **1단계** 공공 API와 회원 제보로 콘텐츠를 모읍니다.
+- **2단계** 제휴 피드와 쇼핑 검색 API로 가격 비교를 보강합니다.
+- **3단계** 브랜드 공식 이벤트 수집을 반자동으로 확장합니다.
+- **4단계** 브랜드 직접 등록을 열고 광고 모델을 검토합니다.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=1&section=header" width="100%" />
+
+### 🛠 Tech Stack
+
+<table width="100%">
+  <tr>
+    <td width="130" align="center"><b>Backend</b></td>
+    <td><img src="https://img.shields.io/badge/Java%2025-161b22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" height="30" /> <img src="https://img.shields.io/badge/Spring%20Boot-161b22?style=for-the-badge&logo=springboot&logoColor=6DB33F" height="30" /> <img src="https://img.shields.io/badge/JPA-161b22?style=for-the-badge&logo=hibernate&logoColor=59666C" height="30" /> <img src="https://img.shields.io/badge/QueryDSL-161b22?style=for-the-badge&logo=spring&logoColor=6DB33F" height="30" /></td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="130" align="center"><b>Frontend</b></td>
+    <td><img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" /> <img src="https://img.shields.io/badge/Vite-161b22?style=for-the-badge&logo=vite&logoColor=646CFF" height="30" /> <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6" height="30" /> <img src="https://img.shields.io/badge/TanStack%20Query-161b22?style=for-the-badge&logo=reactquery&logoColor=FF4154" height="30" /></td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="130" align="center"><b>Data · Infra</b></td>
+    <td><img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=4479A1" height="30" /> <img src="https://img.shields.io/badge/Flyway-161b22?style=for-the-badge&logo=flyway&logoColor=CC0200" height="30" /> <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED" height="30" /> <img src="https://img.shields.io/badge/Nginx-161b22?style=for-the-badge&logo=nginx&logoColor=009639" height="30" /> <img src="https://img.shields.io/badge/GitHub%20Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=2088FF" height="30" /></td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="130" align="center"><b>AI · Mobile</b></td>
+    <td><img src="https://img.shields.io/badge/Gemini-161b22?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" height="30" /> <img src="https://img.shields.io/badge/Android-161b22?style=for-the-badge&logo=android&logoColor=3DDC84" height="30" /></td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<a href="https://eventor.duckdns.org"><img src="https://img.shields.io/badge/Visit-eventor.duckdns.org%20%E2%86%92-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1f6feb&height=90&section=footer" width="100%" alt="footer" />
